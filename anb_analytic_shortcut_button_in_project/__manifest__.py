@@ -35,8 +35,8 @@
 """,
     'category': 'Analytic',
     'version': '0.1',
-    'author': 'Anubía, Soluciones en la Nube, SL',
-    'maintainer': 'Anubía, Soluciones en la nube, SL',
+    'author': 'Anubía Soluciones en la Nube, S.L.',
+    'maintainer': 'Anubía Soluciones en la Nube, S.L.',
     'contributors': [
         'Juan Formoso Vasco <jfv@anubia.es>',
     ],
